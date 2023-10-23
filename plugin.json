@@ -1,0 +1,16 @@
+{
+  "id": "path.Intellisense",
+  "name": "PathIntellisense",
+  "main": "dist/main.js",
+  "version": "1.5.8",
+  "readme": "readme.md",
+  "icon": "icon.png",
+  "files": [],
+  "minVersionCode": 290,
+  "price": 0,
+  "author": {
+    "name": "Ajay Shukla",
+    "email": "shuklaajay****@gmail.com",
+    "github": "AjayShukla007"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "PathIntellisense",
+  "version": "1.5.8",
+  "description": "A path autocompletion plugin for Acode",
+  "main": "dist/main.js",
+  "scripts": {
+    "build": "node build.mjs"
+  },
+  "keywords": [],
+  "author": "Ajay Shukla",
+  "license": "ISC",
+  "devDependencies": {
+    "esbuild": "^0.19.3",
+    "jszip": "^3.10.1"
+  }
+}
